@@ -29,4 +29,5 @@ If you are interested in my services or just want to chat please contanct me wit
 
 - Discord | Tomm#0004
 - Email | tomz.client@gmail.com
+- PayPal Email | cosmictestgalaxy@gmail.com
 - MC-Market | https://www.mc-market.org/members/82145/
