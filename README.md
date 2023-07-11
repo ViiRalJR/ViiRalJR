@@ -27,7 +27,7 @@ Get custom plugins to accelerate your servers growth and boost your players enjo
 # Contact
 If you are interested in my services or just want to chat please contanct me with any method below
 
-- Discord | Tomm#0004
+- Discord | txmxustin
 - Email | tomz.client@gmail.com
 - PayPal Email | cosmictestgalaxy@gmail.com
 - MC-Market | https://www.mc-market.org/members/82145/
