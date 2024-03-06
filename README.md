@@ -29,5 +29,5 @@ If you are interested in my services or just want to chat please contanct me wit
 
 - Discord | txmxustin
 - Email | tomz.client@gmail.com
-- PayPal Email | cosmictestgalaxy@gmail.com
-- MC-Market | https://www.mc-market.org/members/82145/
+- PayPal Email | viiral.paypal@gmail.com
+- BuiltByBit | https://builtbybit.com/members/viiral.82145/
