@@ -1,7 +1,7 @@
 
 # About me
 
-I am a 19 year old Java Developer from England, currently studying Computer Science and doing freelancing work for small businesses and Minecraft servers.
+I am a 20 year old Java Developer from England, currently studying Computer Science and doing freelancing work for small businesses and Minecraft servers.
 I have always been interested in how computer languages are used to make such brilliant things, I first started doing configuration work for several servers which gave me access to some amazing Developers who taught me the power of coding. Since then I have always been fascinated in how things work and how they are made, leading me to the astonishing developement community where I have been able to learn many skill sets.
 
 # Skill Sets
