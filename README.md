@@ -27,7 +27,7 @@ Get custom plugins to accelerate your servers growth and boost your players enjo
 # Contact
 If you are interested in my services or just want to chat please contanct me with any method below
 
-- Discord | txmxustin
+- Discord | viiraljr
 - Email | tomz.client@gmail.com
 - PayPal Email | viiral.paypal@gmail.com
 - BuiltByBit | https://builtbybit.com/members/viiral.82145/
