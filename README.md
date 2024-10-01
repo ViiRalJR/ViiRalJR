@@ -6,8 +6,8 @@ I have always been interested in how computer languages are used to make such br
 
 # Skill Sets
 - 4 Years Java Experience
-- Fundational Knowledge in MySQL and Mongo
-- Configuration and Flatfiles
+- MySQL and Mongo
+- Flatfile storage
 - SpigotAPI
 - PaperAPI
 - Maven
